@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://goat-kickboxing-lp.vercel.app/sitemap.xml
+Sitemap: https://goat-lp-repo.vercel.app/sitemap.xml
